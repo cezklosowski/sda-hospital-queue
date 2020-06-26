@@ -47,4 +47,5 @@ public class Patient {
     public void setDiagnosedDisease(String diagnosedDisease) {
         this.diagnosedDisease = diagnosedDisease;
     }
+
 }
